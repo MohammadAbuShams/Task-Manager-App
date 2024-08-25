@@ -11,4 +11,6 @@ A more complex **Task Manager Application** built using **HTML**, **CSS**, and *
 - **Filter Tasks**: View tasks filtered by their status.
 - **Persistent Storage**: Tasks are stored in the browser's localStorage, so they remain after refreshing.
 
+## Live Demo
 
+Check out the live demo of the website here: (https://mohammadabushams.github.io/Task-Manager-App-in-js/)
