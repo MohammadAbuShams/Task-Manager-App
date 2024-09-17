@@ -9,8 +9,8 @@ A more complex **Task Manager Application** built using **HTML**, **CSS**, and *
 - **Delete Task**: Remove a task from the list.
 - **Update Task Status**: Change the status of tasks between "Pending", "In Progress", and "Completed".
 - **Filter Tasks**: View tasks filtered by their status.
-- **Persistent Storage**: Tasks are stored in the browser's localStorage, so they remain after refreshing.
+- **Persistent Storage**: Tasks are stored in the browser's local storage, so they remain after refreshing.
 
 ## Live Demo
 
-Check out the live demo of the website here: (https://mohammadabushams.github.io/Task-Manager-App-in-js/)
+Check out the live demo of the website [here](https://mohammadabushams.github.io/Task-Manager-App-in-js/)
